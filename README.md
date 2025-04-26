@@ -22,9 +22,10 @@ Each model is trained and evaluated on CIFAR-10, which consists of 60,000 32x32 
 |---------------|--------------------|---------------------|---------------|-----------------|
 | **CNN**       | 80.26%              | 78.09%              | 0.6391        | 0.5613          |
 | **AlexNet**   | 96.14%              | 83.44%              | 0.1496        | 0.5394          |
-| **MobileNet** | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
+| **MobileNet** | 90.07%              | 86.24%              | 0.2960        | 0.3962          |
 | **ResNet-18** | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
 | **ViT**       | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
+
 
 
 
@@ -32,4 +33,4 @@ Each model is trained and evaluated on CIFAR-10, which consists of 60,000 32x32 
 
 - Models were trained using **Google Colab**.
 - Hardware accelerator: **NVIDIA T4 GPU** provided by Colab.
-- Frameworks: TensorFlow, Pandas, Matplotlib.
+- Frameworks: TensorFlow, PyTorch, Torchvision.
