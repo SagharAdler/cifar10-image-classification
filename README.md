@@ -18,13 +18,14 @@ Each model is trained and evaluated on CIFAR-10, which consists of 60,000 32x32 
 
 ##  Model Performance
 
-| Model      | Training Accuracy | Validation Accuracy | Training Loss | Validation Loss |
-|------------|-------------------|---------------------|----------------|------------------|
-| **CNN**        | 80.26%            | 78.09%              | 0.6391         | 0.5613           |
-| **AlexNet**    | *TBD*             | *TBD*               | *TBD*          | *TBD*            |
-| **MobileNet**  | *TBD*             | *TBD*               | *TBD*          | *TBD*            |
-| **ResNet-18**  | *TBD*             | *TBD*               | *TBD*          | *TBD*            |
-| **ViT**        | *TBD*             | *TBD*               | *TBD*          | *TBD*            |
+| Model         | Training Accuracy | Validation Accuracy | Training Loss | Validation Loss |
+|---------------|--------------------|---------------------|---------------|-----------------|
+| **CNN**       | 80.26%              | 78.09%              | 0.6391        | 0.5613          |
+| **AlexNet**   | 96.14%              | 83.44%              | 0.1496        | 0.5394          |
+| **MobileNet** | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
+| **ResNet-18** | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
+| **ViT**       | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
+
 
 
 ##  Training Environment
