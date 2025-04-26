@@ -23,9 +23,8 @@ Each model is trained and evaluated on CIFAR-10, which consists of 60,000 32x32 
 | **CNN**       | 80.26%              | 78.09%              | 0.6391        | 0.5613          |
 | **AlexNet**   | 96.14%              | 83.44%              | 0.1496        | 0.5394          |
 | **MobileNet** | 90.07%              | 86.24%              | 0.2960        | 0.3962          |
-| **ResNet-18** | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
+| **ResNet-18** | 87.27%              | 88.24%              | 0.3526        | 0.3535          |
 | **ViT**       | *TBD*               | *TBD*               | *TBD*         | *TBD*           |
-
 
 
 
